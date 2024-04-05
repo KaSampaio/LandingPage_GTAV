@@ -14,7 +14,7 @@ Foram usadas tecnologias de Front-End como Html, CSS e JavaScript
 
 <hr>
 
-# Semana Dev Em Dobro - GTA V
+# Semana do Zero ao Programador Contratado - GTA V
 
 Instrutores:
 - [Dev em Dobro](https://www.youtube.com/c/devemdobro)
